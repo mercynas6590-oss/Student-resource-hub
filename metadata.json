@@ -1,0 +1,6 @@
+{
+  "name": "CampusCore - Student Resource & Campus Life Hub",
+  "description": "Interactive academic resource library, e-book reader, and campus opportunities portal for university students and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
